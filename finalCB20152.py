@@ -55,7 +55,7 @@ def get_classifier(clf_name, params):
 def build_model(df):
     
     original = df
-    st.markdown('1.2. Original Data Shape')
+    st.markdown('1.2. Original Data Shapesssss')
     st.info(original.shape)
     
     st.markdown('1.3. Example of the first five row of the original Data')
